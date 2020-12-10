@@ -1,0 +1,23 @@
+{
+  "name": "type",
+  "version": "1.0.0",
+  "description": "Tiny type checker with vectorization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melgrove/type.git"
+  },
+  "keywords": [
+    "type",
+    "typeof"
+  ],
+  "author": "Oliver Melgrove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melgrove/type/issues"
+  },
+  "homepage": "https://github.com/melgrove/type#readme"
+}
